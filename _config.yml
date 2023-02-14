@@ -1,0 +1,20 @@
+title: UROP Dashboard
+author: fishberg
+#email:
+description: > # this means to ignore newlines until "show_excerpts:"
+    Simple UROP Dashboard
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+# Comment this out to get all .md files in alphabetical order
+header_pages:
+- index.md
+#- about.md
+
+# Build settings
+theme: minima
+
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
