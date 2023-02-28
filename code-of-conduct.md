@@ -17,9 +17,9 @@ To ensure an effective learning community, this includes (but is not limited to)
     * Be tolerant of different ideas, opinions, and beliefs.
     * Give respectful consideration of others’ social identities, experiences, and differences.
 * A commitment to learning.
-    * Putting in the work to learn and do research.
-    * Asking for help when you are unsure.
-    * Asking for clarification when I am unclear.
-    * Do your best to follow through on your lab commitments (and communicating when you cannot).
-    * Providing me with feedback and suggestions. These policies and procedures are an evolving process (I am learning with you!). I encourage you to approach me with thoughts or concerns as they arise. I make it a priority to be approachable!
+    * Put in the work to learn and do research.
+    * Ask for help when you are unsure.
+    * Ask for clarification when I am unclear.
+    * Follow through on your lab commitments (and communicate when you cannot).
+    * Provide me with feedback and suggestions. These policies and procedures are an evolving process (I am learning with you!). I encourage you to approach me with thoughts or concerns as they arise. **I make it a priority to be approachable!**
 
