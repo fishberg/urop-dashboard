@@ -11,7 +11,7 @@ To ensure an effective learning community, this includes (but is not limited to)
 * **A commitment to effective communication.**
     * Be responsive. Respond to Slack messages/emails within ~1 business day.
     * Follow agreed upon [protocols](https://docs.google.com/document/d/1HYjnJ_GMRrWixFXSV-RdIJ60G6PYZisA5oXnc72zJkU/edit?usp=sharing).
-    * Communicate proactively when "unexpected hiccups" inevidably occur. I am happy to work to accommodate your specific circumstances, but I can't do that if I don't know what's going on!
+    * Communicate proactively when "unexpected hiccups" inevitably occur. I am happy to work to accommodate your specific circumstances, but I can't do that if I don't know what's going on!
         * For instance: lab work is taking longer than expected, course workload is extra heavy, there is a personal/family issue happening, etc.
 * **A commitment to diversity and inclusion.**
     * Be tolerant of different ideas, opinions, and beliefs.
