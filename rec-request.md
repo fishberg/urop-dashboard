@@ -1,16 +1,26 @@
 ---
 layout: default
-title: Request a Rec Letter
+title: Rec Letters
 ---
 
 # Requesting a Rec Letter from Jon
 
-1. Reach out via email to formally request a letter of recommendation from Jon, and cc me on the message. To allow ample time, be sure to give at least 6 weeks lead time (the more the better!).
-2. Assuming Jon agrees, send me the following information over Slack: 
-    * Deadline(s) (**Make sure this is clearly stated and at the top of the message!**)
-    * Purpose for the letter(s) (i.e., job, grad school, fellowship, award, etc.)
-    * Short description of the specific application(s) (e.g., "The X fellowship provides financial support for rising STEM leaders to pursue summer research.")
-    * Purpose for applying (e.g., "Looking to use funds support my research.")
-    * Any important links associated with the application (i.e., main webpage, links to examples, links to recommender guidelines, link to where to submit recommendations, etc.)
-    * List all the ways you interacted with Jon/me, and what semesters those interactions occurred (e.g., "Took Signals and Systems Fall 2022", "UROP Spring 2022 + Fall 2023", etc.)
-    * Things you'd like us to highlight (e.g., coursework, research topics, personality traits, etc.)
+## Step 1: Reach Out
+
+Reach out via email to formally request a letter of recommendation from Jon, and cc me on the message. To allow ample time, be sure to give at least 6 weeks lead time (the more the better!).
+
+## Step 2: Provide Information
+
+Assuming Jon agrees (he usually should), I will work with him to craft an appropriate letter. To do this, I will need you to send me the following information over Slack: 
+
+1. Deadline(s) (**Make sure this is clearly stated and at the top of the message!**)
+2. Purpose for the letter(s) (i.e., job, grad school, fellowship, award, etc.)
+3. Short description of the specific application(s) (e.g., "The X fellowship provides financial support for rising STEM leaders to pursue summer research.")
+4. Purpose for applying (e.g., "Looking to use funds support my research.")
+5. Any important links associated with the application (i.e., main webpage, links to examples, links to recommender guidelines, link to where to submit recommendations, etc.)
+6. List all the ways you interacted with Jon/me, and what semesters those interactions occurred (e.g., "Took Signals and Systems Fall 2022", "UROP Spring 2022 + Fall 2023", etc.)
+7. Things you'd like us to highlight (e.g., coursework, research topics, personality traits, etc.)
+
+## Step 3: Follow Through
+
+Send an email reminder to Jon/me 1 week before any deadline and the day of. While this shouldn't be necessary once we receive the specifics in Step 2, this ensures nothing accidently slips through the cracks!
