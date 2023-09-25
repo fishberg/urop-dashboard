@@ -12,6 +12,7 @@ header_pages:
 - index.md
 - code-of-conduct.md
 - urop-application.md
+- rec-request.md
 
 # Build settings
 theme: minima
