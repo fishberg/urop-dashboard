@@ -20,6 +20,7 @@ Assuming Jon agrees (he usually should), I will work with him to craft an approp
 5. Any important links associated with the application (i.e., main webpage, links to examples, links to recommender guidelines, link to where to submit recommendations, etc.)
 6. List all the ways you interacted with Jon/me, and what semesters those interactions occurred (e.g., "Took Signals and Systems Fall 2022", "UROP Spring 2022 + Fall 2023", etc.)
 7. Things you'd like us to highlight (e.g., coursework, research topics, personality traits, etc.)
+8. An up-to-date copy of your resume or CV
 
 ## Step 3: Follow Through
 
