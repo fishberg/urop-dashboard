@@ -14,13 +14,14 @@ Reach out via email to formally request a letter of recommendation from Jon, and
 Assuming Jon agrees (he usually should), I will work with him to craft an appropriate letter. To do this, I will need you to send me the following information over Slack: 
 
 1. Deadline(s) (**Make sure this is clearly stated and at the top of the message!**)
-2. Purpose for the letter(s) (i.e., job, grad school, fellowship, award, etc.)
-3. Short description of the specific application(s) (e.g., "The X fellowship provides financial support for rising STEM leaders to pursue summer research.")
-4. Purpose for applying (e.g., "Looking to use funds support my research.")
-5. Any important links associated with the application (i.e., main webpage, links to examples, links to recommender guidelines, link to where to submit recommendations, etc.)
-6. List all the ways you interacted with Jon/me, and what semesters those interactions occurred (e.g., "Took Signals and Systems Fall 2022", "UROP Spring 2022 + Fall 2023", etc.)
-7. Things you'd like us to highlight (e.g., coursework, research topics, personality traits, etc.)
-8. An up-to-date copy of your resume or CV
+2. Clear instructions on how/where to submit the letter. Often this is a website URL, an address to mail/email, or an link we will be directly emailed (that we need to keep an eye out for).
+3. Purpose for the letter(s) (i.e., job, grad school, fellowship, award, etc.)
+4. Short description of the specific application(s) (e.g., "The X fellowship provides financial support for rising STEM leaders to pursue summer research.")
+5. Purpose for applying (e.g., "Looking to use funds support my research.")
+6. Any important links associated with the application (i.e., main webpage, call for applications, links to examples, links to recommender guidelines, etc.)
+7. List all the ways you interacted with Jon/me, and what semesters those interactions occurred (e.g., "Took Signals and Systems Fall 2022", "UROP Spring 2022 + Fall 2023", etc.)
+8. Things you'd like us to highlight (e.g., coursework, research topics, personality traits, etc.)
+9. An up-to-date copy of your resume or CV
 
 ## Step 3: Follow Through
 
