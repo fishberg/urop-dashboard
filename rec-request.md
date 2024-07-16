@@ -3,7 +3,11 @@ layout: default
 title: Rec Letters
 ---
 
-# Requesting a Rec Letter from Jon
+# Requesting a Rec Letter from Jon / Andrew
+
+## Step 0: Talk to Andrew
+
+Talk to me so I know you are looking for a rec letter. This way I can keep an active eye out for the email (i.e., the next step) and talk to Jon. Also, depending on the circumstances, I might have some special instructions.
 
 ## Step 1: Reach Out
 
