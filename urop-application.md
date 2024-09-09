@@ -8,7 +8,7 @@ title: UROP Application
 
 * Faculty Supervisor: Jonathan P. How
 * Direct Supervisor: Andrew Fishberg
-* Exact Location of UROP: 31-235B (my desk)
+* Exact Location of UROP: 31-235C (my desk)
 * Project Name: Multi-agent pose estimation and SLAM
 * Account Number:
     * If applying for direct funding (i.e., from the UROP office), this should be auto populated for you. You should always apply for direct funding first (earlier deadline) and if rejected, we will resubmit with lab funding.
