@@ -10,10 +10,10 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Comment this out to get all .md files in alphabetical order
 header_pages:
 - index.md
-- code-of-conduct.md
-- urop-application.md
-- rec-request.md
-- swipe-access-request.md
+#- code-of-conduct.md
+#- urop-application.md
+#- rec-request.md
+#- swipe-access-request.md
 
 # Build settings
 theme: minima
