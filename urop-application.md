@@ -5,6 +5,7 @@ title: UROP Application
 
 # UROP Application
 * [Application Link](https://eduapps.mit.edu/uropweb/home.mit)
+* [UROP Office's Instructions](https://urop.mit.edu/guidelines/proposals-evaluations/)
 
 * Faculty Supervisor: Jonathan P. How
 * Direct Supervisor: Andrew Fishberg
