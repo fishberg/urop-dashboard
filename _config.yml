@@ -13,6 +13,7 @@ header_pages:
 - code-of-conduct.md
 - urop-application.md
 - rec-request.md
+- swipe-access-request.md
 
 # Build settings
 theme: minima
