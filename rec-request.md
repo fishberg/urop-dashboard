@@ -7,7 +7,7 @@ title: Rec Letters
 
 ## Step 1: Talk to Andrew
 
-Talk to me so I know you are looking for a rec letter. This way I can keep an active eye out for the email (i.e., the next step) and talk to Jon. Also, depending on the circumstances, I might have some special instructions. **DO NOT MOVE ON TO STEP 2 UNTIL WE FIRST HAVE AN IN-PERSON CONVERSATION!**
+Talk to me so I know you are looking for a rec letter. This way I can keep an active eye out for the email (i.e., the next step) and talk to Jon. Also, depending on the circumstances, I might have some special instructions. **DO NOT MOVE ON TO STEP 2 UNTIL WE FIRST HAVE AN PHONE/VIDEO/IN-PERSON CONVERSATION!**
 
 ## Step 2: Reach Out
 
